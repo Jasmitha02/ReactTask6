@@ -16,7 +16,7 @@ function Portfolio() {
       <main>
       <h2>About Me</h2>
         <section class="background">
-          <p> Hellooo..This is Jasmitha, I am currently pursuing my btech third year, Computer Science and Engineering in VITAP University. I love learning new skills. I am good at Python, etter at Web Designing and best at Java. I am learning more about all these skills and want to start learning Data Science too. This is my portfolio I have made some basic projects using my WebDev skils you can find them here below..:)
+          <p> Hellooo..This is Jasmitha, I am currently pursuing my btech third year, Computer Science and Engineering in VITAP University. I love learning new skills. I am good at Python, better at Web Designing and best at Java. I am learning more about all these skills and want to start learning Data Science too. This is my portfolio I have made some basic projects using my WebDev skils you can find them here below..:)
           </p>
         </section>
         <section class="section-spacing">
