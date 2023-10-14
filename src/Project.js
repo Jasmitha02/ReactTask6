@@ -16,7 +16,7 @@ const Project = [
     {
         id: 3,
         title: "Project 3: Jas Dice",
-        description: "This is the first project I made using JAVA SCRIPT, It actually displays two dice which displays random two numbers, and declares which palyer wins based on the number displayed on them. It can be used by anyone who are playing any game with two players and doesn't have a physical dice to play! You just need to refresh the page for the new values!",
+        description: "This is the first project I made using JAVA SCRIPT, It actually displays two dice which displays random two numbers, and declares which palyer wins based on the number displayed on them. It can be used by anyone who are playing any game with two players and doesn't have a physical dice to play! You just need to refresh the page to get the new values on the dice!",
         technologiesUsed: ["JAVASCRIPT","HTML","CSS"],
         link: "https://jasmitha02.github.io/JasDice/",      
     }
