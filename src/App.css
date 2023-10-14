@@ -1,38 +1,121 @@
-.App {
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+.head{
+  color: #FF8080;
+  font-family: Avenir Next;
+  font-size: 60px;
+}
+h1{
+  color:#FFCF96;
+  font-family:Avenir Next;
+}
+body {
+  /* font-family: Arial, sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #CDFAD5, #F6FDC3);
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+header {
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  height: 85px;}
+
+header h1 {
+  font-size: 2rem;
+}
+main {
+  background: linear-gradient(180deg, #ffffff, #f9f9f9);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+section {
+  margin-bottom: 30px;
+}
+.project h3{
+  color: #5B0888;
+  font-size: 24px;
+}
+h3{
+  color: #713ABE;
+  font-size: 24px;
+  font-family: Avenir Next;
+}
+
+.project p{
+  font-size: 18px;
+}
+
+/* Contact information styling */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+.section-spacing {
+  margin-bottom: 30px;
+}
+.heading-spacing {
+  margin-bottom: 20px;
+}
+.background>h3{
+  margin-bottom: 10px;
+}
+.paragraph-spacing {
+  margin-bottom: 10px;
+}
+.background{
+  background: linear-gradient(135deg, #F6FDC3, #CDFAD5);
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer ul {
+  list-style: none;
+  padding: 0; 
+}
+
+/* Style the footer link items */
+footer li {
+  display: flex;
+  margin-right: 20px;
+  justify-content: center;
+}
+a {
+  color: #FF8080;
+  text-decoration: none;
+  font-size: 18px;
+}
+.icon{
+  color: #555843;
+}
+footer a{
+  font-size: 1.2rem;
+  margin-left: 3px;
+}
+footer p{
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.h{
+  font-size: 1.5rem;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2{
+  color: #FF8080;
+  font-family: Avenir Next;
+  font-size: 30px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.mee{
+  font-size: 30px;
 }
